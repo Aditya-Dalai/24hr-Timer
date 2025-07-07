@@ -6,13 +6,13 @@ A fully responsive countdown timer that lets you set any duration up to 24 hours
 
 ## 🚀 Live Demo
 
-👉 [Click here to view it live](#)
+👉 [Click here to view it live](https://aditya-dalai.github.io/24hr-Timer/)
 
 ---
 
 ## 📸 Screenshots
 
-
+![Screenshot 2025-07-07 230925](https://github.com/user-attachments/assets/1b109fb0-fd5e-47fa-ab78-b9d0237bd970)
 
 ---
 
