@@ -18,11 +18,11 @@ A fully responsive countdown timer that lets you set any duration up to 24 hours
 
 ## ✨ Features
 
-- Set countdown up to **24 hours**
+- Set the countdown up to **24 hours**
 - **Start, Pause, Resume, and Reset** functionality
 - Clean **red & white UI on a black background**
 - Fully **responsive design** for mobile, tablet, and desktop
-- Pure HTML, CSS & JS — **no libraries or frameworks**
+- Pure HTML, CSS & JS - **no libraries or frameworks**
 
 ---
 
@@ -33,17 +33,6 @@ A fully responsive countdown timer that lets you set any duration up to 24 hours
 - Add preset quick-set buttons (e.g., 25 min, 1 hour)
 
 ---
-
-## 👨‍💻 Author
-
-**Aditya Narayan Dalai**  
-🌐 [GitHub Profile](https://github.com/Aditya-Dalai)  
-📫 *Feel free to connect, fork the repo, or suggest improvements!*
-
----
-
-
-## 🧡 If you liked this project...
 
 Give it a ⭐️ on GitHub and consider sharing!
 
