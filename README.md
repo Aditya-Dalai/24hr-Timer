@@ -1,6 +1,7 @@
 # ⏳ 24-Hour Countdown Timer
 
-A fully responsive countdown timer that lets you set any duration up to 24 hours and counts down in real time. Built using HTML, CSS, and JavaScript — no frameworks or libraries!
+A fully responsive countdown timer that lets you set any duration up to 24 hours and counts down in real time. Built using HTML, CSS, and JavaScript. 
+No frameworks or libraries!
 
 ---
 
